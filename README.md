@@ -47,7 +47,3 @@ If you have any questions or feedback, feel free to reach out:
 
 - GitHub: [AmanRai145](https://github.com/AmanRai145)
 - Email: amanrai1445@gmail.com
-
----
-
-Replace the placeholder values (e.g., `yourusername`, `youremail@example.com`, `path_to_your_screenshot`) with your actual information. This README should give users a clear understanding of what your project does and how to use it.
